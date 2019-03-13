@@ -1,0 +1,23 @@
+/*
+* Megan Leach
+* Due date
+* table classwork
+*/
+
+/* The Universal Selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+
+}
+table, td, th {border: 1px solid blue; } /* changes the size, style, and color or the border*/
+
+table { border-collapse: collapse; } /* collapses the space between cells*/
+
+thead { background-color: red; }
+tfoot {background-color: deepskyblue; } /*changes the color of the thead and tfoot*/
